@@ -13,4 +13,4 @@ Simple project to monitor the temperature & humidity of the environment, using a
 
 ## Wiring Schematic
 
-TODO: add wiring schematic
+![Wiring Schematic](./schematic.png)
