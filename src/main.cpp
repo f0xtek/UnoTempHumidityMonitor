@@ -18,6 +18,7 @@ LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
  */
 DHT dht(DHTPIN, DHTTYPE);
 
+// cppcheck-suppress unusedFunction
 void setup()
 {
   dht.begin();
@@ -25,6 +26,7 @@ void setup()
   lcd.print("Hello, Luke!");
 }
 
+// cppcheck-suppress unusedFunction
 void loop()
 {
   // wait between measurements
