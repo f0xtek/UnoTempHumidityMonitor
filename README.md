@@ -13,10 +13,4 @@ Simple project to monitor the temperature & humidity of the environment, using a
 
 ## Wiring Schematic
 
-## PoC
-
-![Wiring Diagram](./poc-wiring-diagram.png)
-
-## Schematic
-
 ![Wiring Schematic](./schematic.png)
